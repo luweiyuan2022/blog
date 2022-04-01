@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db1888de-89e4-4256-a0ce-a2665c8f1b7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/templates/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1l2of84Jukru6ITukK0mrj8LQdw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="RunManager" selected="Python.tests">
+    <configuration name="productor" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ddblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../productor.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ddblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tools/sms.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tasks_result" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ddblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../tasks_result.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ddblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/topic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/topic/tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ddblog" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/topic" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/topic/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tests" />
+        <item itemvalue="Python.sms" />
+        <item itemvalue="Python.views (1)" />
+        <item itemvalue="Python.productor" />
+        <item itemvalue="Python.tasks_result" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db1888de-89e4-4256-a0ce-a2665c8f1b7d" name="Default Changelist" comment="" />
+      <created>1606804647755</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606804647755</updated>
+    </task>
+    <task id="LOCAL-00001" summary="add ignore">
+      <created>1648737422371</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1648737422371</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="add ignore" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="131" y="184" width="753" height="402" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1648737755191">
+      <screen x="67" y="27" width="929" height="825" />
+    </state>
+    <state x="131" y="184" width="753" height="402" key="#com.intellij.fileTypes.FileTypeChooser/67.27.929.825@67.27.929.825" timestamp="1648737755191" />
+    <state x="134" y="151" width="825" height="402" key="#com.intellij.fileTypes.FileTypeChooser/67.27.969.653@67.27.969.653" timestamp="1647756119129" />
+    <state x="67" y="27" width="919" height="825" key="CommitChangelistDialog2" timestamp="1648737711486">
+      <screen x="67" y="27" width="929" height="825" />
+    </state>
+    <state x="67" y="27" width="919" height="825" key="CommitChangelistDialog2/67.27.929.825@67.27.929.825" timestamp="1648737711486" />
+    <state x="440" y="174" key="FileChooserDialogImpl" timestamp="1648656539268">
+      <screen x="67" y="27" width="1851" height="900" />
+    </state>
+    <state x="440" y="174" key="FileChooserDialogImpl/67.27.1851.900@67.27.1851.900" timestamp="1648656539268" />
+    <state x="240" y="162" key="FileChooserDialogImpl/67.27.861.825@67.27.861.825" timestamp="1648511260228" />
+    <state x="252" y="146" key="FileChooserDialogImpl/67.27.922.725@67.27.922.725" timestamp="1644126895535" />
+    <state x="253" y="142" key="FileChooserDialogImpl/67.27.925.701@67.27.925.701" timestamp="1645196762199" />
+    <state x="254" y="162" key="FileChooserDialogImpl/67.27.929.825@67.27.929.825" timestamp="1648598710787" />
+    <state x="262" y="134" key="FileChooserDialogImpl/67.27.969.653@67.27.969.653" timestamp="1647876998404" />
+    <state width="835" height="157" key="GridCell.Tab.0.bottom" timestamp="1648511262163">
+      <screen x="67" y="27" width="861" height="825" />
+    </state>
+    <state width="1825" height="157" key="GridCell.Tab.0.bottom/67.27.1851.900@67.27.1851.900" timestamp="1648465193982" />
+    <state width="835" height="157" key="GridCell.Tab.0.bottom/67.27.861.825@67.27.861.825" timestamp="1648511262163" />
+    <state width="896" height="166" key="GridCell.Tab.0.bottom/67.27.922.725@67.27.922.725" timestamp="1644126897667" />
+    <state width="910" height="166" key="GridCell.Tab.0.bottom/67.27.936.725@67.27.936.725" timestamp="1644598529504" />
+    <state width="835" height="157" key="GridCell.Tab.0.center" timestamp="1648511262162">
+      <screen x="67" y="27" width="861" height="825" />
+    </state>
+    <state width="1825" height="157" key="GridCell.Tab.0.center/67.27.1851.900@67.27.1851.900" timestamp="1648465193981" />
+    <state width="835" height="157" key="GridCell.Tab.0.center/67.27.861.825@67.27.861.825" timestamp="1648511262162" />
+    <state width="896" height="166" key="GridCell.Tab.0.center/67.27.922.725@67.27.922.725" timestamp="1644126897666" />
+    <state width="910" height="166" key="GridCell.Tab.0.center/67.27.936.725@67.27.936.725" timestamp="1644598529502" />
+    <state width="835" height="157" key="GridCell.Tab.0.left" timestamp="1648511262162">
+      <screen x="67" y="27" width="861" height="825" />
+    </state>
+    <state width="1825" height="157" key="GridCell.Tab.0.left/67.27.1851.900@67.27.1851.900" timestamp="1648465193980" />
+    <state width="835" height="157" key="GridCell.Tab.0.left/67.27.861.825@67.27.861.825" timestamp="1648511262162" />
+    <state width="896" height="166" key="GridCell.Tab.0.left/67.27.922.725@67.27.922.725" timestamp="1644126897665" />
+    <state width="910" height="166" key="GridCell.Tab.0.left/67.27.936.725@67.27.936.725" timestamp="1644598529500" />
+    <state width="835" height="157" key="GridCell.Tab.0.right" timestamp="1648511262163">
+      <screen x="67" y="27" width="861" height="825" />
+    </state>
+    <state width="1825" height="157" key="GridCell.Tab.0.right/67.27.1851.900@67.27.1851.900" timestamp="1648465193982" />
+    <state width="835" height="157" key="GridCell.Tab.0.right/67.27.861.825@67.27.861.825" timestamp="1648511262163" />
+    <state width="896" height="166" key="GridCell.Tab.0.right/67.27.922.725@67.27.922.725" timestamp="1644126897666" />
+    <state width="910" height="166" key="GridCell.Tab.0.right/67.27.936.725@67.27.936.725" timestamp="1644598529503" />
+    <state x="511" y="111" key="SettingsEditor" timestamp="1644676209261">
+      <screen x="67" y="27" width="1851" height="900" />
+    </state>
+    <state x="511" y="111" key="SettingsEditor/67.27.1851.900@67.27.1851.900" timestamp="1644676209261" />
+    <state x="167" y="125" width="533" height="375" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1643302766250">
+      <screen x="67" y="27" width="733" height="573" />
+    </state>
+    <state x="167" y="125" width="533" height="375" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.733.573@67.27.733.573" timestamp="1643302766250" />
+  </component>
+</project>
